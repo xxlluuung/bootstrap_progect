@@ -1,0 +1,30 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.card-img-top {
+    width: 400px;
+    height: 400px;
+}
+
+.glav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    width: 400px;
+}
+
+.d-block {
+    height: 800px;
+    text-align: center;
+}
+
+.nige {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+}
